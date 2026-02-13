@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Albina
 
-![Profile Views](https://komarev.com/ghpvc/?username=albinaaytekin&color=pink)
+![Profile Views](https://komarev.com/ghpvc/?username=albinaaytekin&color=blue)
 
 🎯 .NET Backend Developer
 💻 Focused on ASP.NET Core & Web API Development
