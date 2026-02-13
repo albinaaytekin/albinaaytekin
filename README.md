@@ -45,20 +45,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinaaytekin\&show_icons=true)
-
----
-
-## 📫 Contact Me
-
-* LinkedIn: https://linkedin.com/in/albinaaytekin [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/albinaaytekin)
-
-* Email: albinaaytekin@gmail.com
-
----
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinaaytekin&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albinaaytekin&layout=compact)
@@ -67,10 +53,11 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/LINKEDIN_ADIN)
+* LinkedIn: https://linkedin.com/in/albinaaytekin 
 
-Email: albinaaytekin@gmail.com
+* Email: albinaaytekin@gmail.com
 
+---
 
 ⭐ Always open to learning and improving myself.
 
