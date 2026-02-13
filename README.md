@@ -61,8 +61,8 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/albinaaytekin)
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?logo=gmail&logoColor=white)](mailto:albinaaytekin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/albinaaytekin)
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?)](mailto:albinaaytekin@gmail.com)
 
 
 ⭐ Always open to learning and improving myself.
