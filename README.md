@@ -43,14 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinaaytekin&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albinaaytekin&layout=compact)
-
----
-
 ## 📫 Contact Me
 
 * LinkedIn: https://linkedin.com/in/albinaaytekin 
