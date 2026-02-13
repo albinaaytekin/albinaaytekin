@@ -51,7 +51,7 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: in/albina-a-874bb6204
+* LinkedIn: https://linkedin.com/in/albinaaytekin
 * Email: albinaaytekin@gmail.com
 
 ---
