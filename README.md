@@ -51,7 +51,8 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: https://linkedin.com/in/albinaaytekin
+* LinkedIn: https://linkedin.com/in/albinaaytekin [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/albinaaytekin)
+
 * Email: albinaaytekin@gmail.com
 
 ---
