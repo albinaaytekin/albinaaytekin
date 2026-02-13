@@ -56,3 +56,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=.NET+Backend+Developer;ASP.NET+Core+Specialist;API+Builder)
 
+Futuristic developer workspace banner for GitHub profile. 
+Dark cyber tech background with glowing code, API connections, and database nodes. 
+A female backend developer silhouette working on multiple monitors. 
+Text: "Albina Aytekin — .NET Backend Developer". 
+Neon blue accents, modern UI holograms, minimal but eye-catching, high detail.
+
+
