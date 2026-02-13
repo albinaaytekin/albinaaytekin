@@ -53,9 +53,3 @@
 
 
 ⭐ Always open to learning and improving myself.
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=.NET+Backend+Developer;ASP.NET+Core+Specialist;API+Builder)
-
-
-
-
