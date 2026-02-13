@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Albina
 
-<!--
-**albinaaytekin/albinaaytekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=albinaaytekin&color=pink)
 
-Here are some ideas to get you started:
+🎯 .NET Backend Developer
+💻 Focused on ASP.NET Core & Web API Development
+📍 Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+* **Backend:** C#, .NET Core, ASP.NET Web API
+* **Database:** SQL Server, Entity Framework Core
+* **Authentication:** JWT, Identity
+* **Mobile:** .NET MAUI
+* **Other:** Git, Postman, Swagger, HTML/CSS/JS
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 Market Management System
+
+* Product & Category Management
+* Admin Panel
+* Barcode Integration
+* RESTful API + MAUI Mobile App
+
+### 📅 Appointment Tracking System
+
+* Appointment Create / Update / Cancel
+* Role-based Authorization
+* JWT Authentication
+* SQL Server Database
+
+### 🔐 Auth API + Mobile Client
+
+* Register / Login
+* Token & Refresh Token
+* Secure API Access
+* MAUI Integration
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albinaaytekin\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: in/albina-a-874bb6204
+* Email: albinaaytekin@gmail.com
+
+---
+
+⭐ Always open to learning and improving myself.
+
+
