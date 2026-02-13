@@ -45,48 +45,10 @@
 
 ## 📫 Contact Me
 
-* LinkedIn: https://linkedin.com/in/albinaaytekin 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/albinaaytekin)
 
 * Email: albinaaytekin@gmail.com
 
 ---
 
-
 ⭐ Always open to learning and improving myself.
-
-
-![Banner](banner.png)
-
-# 👋 Hi, I'm Albina
-
-🚀 .NET Backend Developer
-Building scalable APIs & business applications.
-
----
-
-## ⚡ Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,postman,html,css,js)
-
----
-
-## 🧩 Featured Projects
-
-🛒 **Market Management System**
-Admin Panel • Barcode • REST API • MAUI Client
-
-📅 **Appointment Tracking System**
-JWT Auth • Role Management • SQL Server
-
-🔐 **Auth API + Mobile Client**
-Register • Login • Token • Secure API Access
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/albinaaytekin)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=albinaaytekin\&color=blue)
