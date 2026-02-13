@@ -88,7 +88,8 @@ Register • Login • Token • Secure API Access
 
 ---
 
-## 🐍 Contribution Activity
+
 
 ![Snake animation](https://github.com/albinaaytekin/albinaaytekin/blob/output/github-contribution-grid-snake.svg)
+
 
