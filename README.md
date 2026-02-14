@@ -48,48 +48,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/albinaaytekin)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:albinaaytekin@gmail.com)
 
-
 ---
 
 ⭐ Always open to learning and improving myself.
 
-
-![Banner](banner.png)
-
-# 👩‍💻 Albina Aytekin
-
-🚀 .NET Backend Developer
-Building scalable APIs & real-world business systems.
-
 ---
-
-## ⚡ Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,postman,html,css,js)
-
----
-
-## 🧩 Featured Projects
-
-🛒 **Market Management System**
-Admin Panel • Barcode • REST API • MAUI Client
-
-📅 **Appointment Tracking System**
-JWT Auth • Role Management • SQL Server
-
-🔐 **Auth API + Mobile Client**
-Register • Login • Token • Secure API Access
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/albinaaytekin)
-
----
-
 
 
 ![Snake animation](https://github.com/albinaaytekin/albinaaytekin/blob/output/github-contribution-grid-snake.svg)
-
-
